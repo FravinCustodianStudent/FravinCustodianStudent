@@ -2,8 +2,8 @@
 Currently I`m student and full-stack developer
 
 ## 🔭 I'm currently working on
-- My old projects
-- Apllication messanger on React(remake of old Application messanger)
+- My pet projects
+- Student`s application on Angualar/.net
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/andrii-fesak-8b1563168/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -27,7 +27,7 @@ Currently I`m student and full-stack developer
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 </br>
 
