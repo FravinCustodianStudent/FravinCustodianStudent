@@ -3,7 +3,7 @@ Currently I`m student and full-stack developer
 
 ## 🔭 I'm currently working on
 - My pet projects
-- Student`s application on Angualar/.net
+- Student`s application on Angular/.net
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/andrii-fesak-8b1563168/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
