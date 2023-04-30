@@ -3,7 +3,7 @@ Currently I`m student and full-stack developer
 
 ## 🔭 I'm currently working on
 - My pet projects
-- Student`s application on Angular/.net
+- Student`s application on React/Spring boot
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/andrii-fesak-8b1563168/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -15,8 +15,8 @@ Currently I`m student and full-stack developer
 
 <h3>BackEnd</h3> 
 
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit)
+![]([https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </br>
@@ -28,6 +28,8 @@ Currently I`m student and full-stack developer
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 </br>
 
